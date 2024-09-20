@@ -1,3 +1,3 @@
 # Sample App For Jenkins CI and CD automate.
-# (git checkout)
+# (git checkout).
 # (sonar-scanner)
